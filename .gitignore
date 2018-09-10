@@ -1,3 +1,9 @@
+# Data files
+data*
+
+# Jupyter files
+notebooks/.ipy*
+
 # History files
 .Rhistory
 .Rapp.history
